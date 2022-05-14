@@ -1,0 +1,17 @@
+body{
+    
+    margin: 0;
+    border-bottom: 30px solid rgb(255, 0, 0);
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+    background-image:url("../img/fondoespacio.png");
+    background-size: cover;
+    overflow: hidden;
+}
+
+#nave{
+    position: absolute;
+    bottom: 0;
+   
+}
